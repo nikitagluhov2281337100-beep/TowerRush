@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 Host: www.luckybearcasino.site
-Sitemap: https://www.luckybearcasino.site/sitemap.xml
+Sitemap: https://luckybearcasino.site/sitemap.xml
 
 User-agent: AhrefsBot
 Disallow: /
